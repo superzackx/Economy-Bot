@@ -9,5 +9,9 @@ If you do however decide to self host, you **<ins>AGREE to the following terms:<
 2. To give credits in your code
 3. Your not using the name Economy-Bot
 
+## Public bot:
+We have a version of the public bot. Which can be added with a click of a button. 
+Click [here] to invite the bot
+
 ## Credits
 1. NightZan999 - Coded the full thing
